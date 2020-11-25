@@ -1,5 +1,5 @@
 
-A Personal Project im working on, a marching cubes system that I can use for further experiments.
+A personal project im working on, a marching cubes system that I can use for further experiments.
 
 Marching Cubes
 https://youtu.be/qZV6K5Kep-0
